@@ -1,0 +1,35 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision]
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+"InstallPath"="F:\\Games\\Call of Duty 4\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+"InstallDrive"="H:\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+"Language"="enu"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+"Version"="1.0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+"EXEStringS"="F:\\Games\\Call of Duty 4\\iw3sp.exe"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+"EXEStringM"="F:\\Games\\Call of Duty 4\\iw3mp.exe"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+"QA"="15.0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Activision\Call of Duty 4]
+"codkey"="Y2DMWY4DDDQPGYDUDB42"
+
